@@ -276,7 +276,7 @@ ul#menu li a {
 }
 ul#menu li a:hover {
     background-color: #ffffff;
-	color: #4D004D;
+	color: #003399; /*original: #4D004D*/
     font-weight: normal;
 }
 
