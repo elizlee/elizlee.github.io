@@ -20,10 +20,13 @@ h1 {
 	text-align:center;
 	color:#000000;
 	background-color: rgba(225,225,225,0.75);
-	/*left: 0;
+	left: 0;
 	right: 0;
-	margin-left: auto;*/
-	margin-left: 10px;
+	
+	/*If right-side info: margin-left=10px;
+					else: both sides auto*/
+	margin-left: auto;
+	margin-right: auto;
 	width: 400px;
 	margin-bottom: 20px;
 	position: absolute;
@@ -96,11 +99,19 @@ a.langlink:hover {
 	display: inline-block;
 }*/
 
+/* If right-side info:
 .banner {
 	position: relative;
 	float: left;
 	height: 200px;
 	margin-right: 20px;
+}
+*/
+
+.banner {
+	position: relative;
+	float: center;
+	height: 200px;
 }
 
 .banner img {
