@@ -26,9 +26,9 @@ var quoteList = ['"Time flies like an arrow; fruit flies like a banana." </br>-l
 	'"Give me ambiguity or give me something else!" </br>-Anonymous',
 	'"The future isn\'t what it used to be." </br>-Unknown',
 	'"Code never lies. Comments sometimes do." </br>-Anonymous',
-	'"In order to understand recursion, you must understand recursion." </br>-computer science proverb',
+	'"There are two types of people in this world: 1) Those who can extrapolate from incomplete data." </br>-Unknown',
 	'"Haikus are easy</br>But sometimes they don\'t make sense</br>Refrigerator"</br></br>-Unknown',
-	'"Metaphors be with you." </br>-Unknown',
+	'"It\'s not a bug, it\'s an experiment." </br>-one of my coworkers',
 	'"Corduroy pillows make headlines." </br>-Anonymous',
 	'"If you\'re reading this quote, either I\'m not as good at JavaScript as I thought or something rather strange is happening." </br>-Elizabeth Lee']
 var d = new Date();
